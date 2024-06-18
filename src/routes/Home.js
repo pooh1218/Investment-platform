@@ -38,7 +38,7 @@ const Home = () => {
     <Reviews/>
     <Advert/>
     <Download/>
-    <Footer/>
+    {/* <Footer/> */}
     </React.Fragment>
 }
     </>

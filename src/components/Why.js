@@ -6,8 +6,8 @@ const Why = () => {
     <section className='why'>
         <div className='why_flex'>
         <div className='pros_top'>
-                    <h2>These are why you should use Niravest</h2>
-                    <p>Discover the reasons why Niravest is your top choice, offering unparalleled features, reliability, and support for your investment journey.</p>
+                    <h2>These are why you should use PORKRYPTO</h2>
+                    <p>Discover the reasons why PORKRYPTO is your top choice, offering unparalleled features, reliability, and support for your investment journey.</p>
                     <img src={divider} />
             </div>
             <div className='why_btm'>

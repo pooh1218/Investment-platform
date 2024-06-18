@@ -162,7 +162,7 @@ header{
         cursor: pointer;
         display: grid;
         grid-template-columns: repeat(2,1fr);
-        background: #307051;
+        background: white;
         
     }
     
@@ -188,7 +188,7 @@ header{
         left: 0;
         width: 0%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.257);
+        background: white;
         z-index: 1;
     }
 

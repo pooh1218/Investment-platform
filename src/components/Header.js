@@ -113,7 +113,7 @@ useEffect(() => {
                 <Link to={"/"}>
                 <div className='navbar_left'>
                     <img src={logo} className='logo_img' />
-                    <span className='logo_txt'>niravest</span>
+                    <span className='logo_txt'>PORKRYPTO</span>
                 </div>
                 </Link>
 
@@ -137,16 +137,21 @@ useEffect(() => {
                             </Link>
                         </li>
 
-                        <li>
-                            <Link to={'/services'} onClick={openPage}>
-                                Service
+                        <li className='desktop-packages-link'>
+                            <Link to={'/signin'}>
+                                Task
                             </Link>
                         </li>
 
+                        <li>
+                            <Link to={'/services'} onClick={openPage}>
+                                Team
+                            </Link>
+                        </li>
 
                         <li className='desktop-packages-link'>
                             <Link to={'/signin'}>
-                                Packages
+                                Vip
                             </Link>
                         </li>
 

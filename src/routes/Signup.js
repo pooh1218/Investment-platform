@@ -105,7 +105,7 @@ const Signup = () => {
 
                 <p className='account-condition'>Already have an account?  <Link to={'/signin'}  >Sign In</Link></p>
             </main>
-            <Footer />
+            {/* <Footer /> */}
 
         </>
 

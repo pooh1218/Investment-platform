@@ -21,7 +21,7 @@ const Reviews = () => {
             <div className='review-con'>
                 <div className='rev-left'>
                     <h1 className='text-white'>Our Customers Love What We Do</h1>
-                    <h3 className='text-white'>Turn Your Investment Idea into Reality with Niravest.</h3>
+                    <h3 className='text-white'>Turn Your Investment Idea into Reality with PORKRYPTO.</h3>
                     <p className='text-light-gray'>It Is A Well-Known Fact That Investment Decisions Can Be Influenced By the Clarity and Readability of the Information Provided.</p>
 
                     <div className='profile-pics-flex'>

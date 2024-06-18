@@ -107,7 +107,7 @@ const Login = () => {
 
         <p className='account-condition'>Don't have an account? <Link to={'/signup'}>Sign up</Link></p>
       </main>
-      <Footer/>
+      {/* <Footer/> */}
     </>
   )
 }

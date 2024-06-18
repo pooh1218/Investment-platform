@@ -27,7 +27,7 @@ const AdminNav = () => {
         <div className='user-navbar'>
           <div className='user-navbar-top'>
             <img src={logo} className='logo_img' />
-            <span className='logo_txt'>niravest[Admin]</span>
+            <span className='logo_txt'>PORKRYPTO[Admin]</span>
           </div>
 
           <ul className='user-navbar-menu-links'>
@@ -93,7 +93,7 @@ const AdminNav = () => {
       <div className="mobile-user-nav">
         <div className='user-navbar-top'>
           <img src={logo} className='logo_img' />
-          <span className='logo_txt'>niravest</span>
+          <span className='logo_txt'>PORKRYPTO</span>
         </div>
 
         <ul className='user-navbar-menu-links-mobile'>
